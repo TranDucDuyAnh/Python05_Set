@@ -1,1 +1,2 @@
-# Python05_Set
+Bài tập Python 05
+- Set
